@@ -1,5 +1,5 @@
 # The student academic portal system was developed to provide a simple, efficient, and reliable way of managing student's academic records in schools.    
-# 🎓 Student Academic Portal System
+# Student Academic Portal System
 
 A desktop-based **Student Academic Portal System** developed in **Python** using the **Tkinter GUI library**. The application allows administrators to manage student academic records, calculate grades automatically, store records in CSV files, and search student information through a simple and user-friendly interface.
 
@@ -201,9 +201,11 @@ The Student Academic Portal System promotes quality education by improving the m
 
 Student Academic Portal System
 
-Department of Computer Science
+Group Members:
+John Adel Sesay. 
+Github email: johnadelsesay-sys
 
----
+Mariama Hawanatu Conteh. Github email: shellyble-cmd
 
 ## License
 
